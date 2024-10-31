@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  footer {
+    background-color: #311266;
+    text-align: center;
+    bottom: 0;
+  }
+
+  .navbar-custom  {
+    background-color: #311266;
+    text-align: #ffffff;
+  }
+
+  body {
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
